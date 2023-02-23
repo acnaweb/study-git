@@ -11,4 +11,4 @@ Projeto para aprendizagem de git.
 - git add [nome_arquivo]
 - git add .
 - git commit -m "explicação"
-blabla
+- git push
