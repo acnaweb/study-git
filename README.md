@@ -10,3 +10,5 @@ Projeto para aprendizagem de git.
 - git status
 - git add [nome_arquivo]
 - git add .
+- git commit -m "explicação"
+blabla
