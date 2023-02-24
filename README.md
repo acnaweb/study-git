@@ -12,3 +12,4 @@ Projeto para aprendizagem de git.
 - git add .
 - git commit -m "explicação"
 - git push
+- git pull
